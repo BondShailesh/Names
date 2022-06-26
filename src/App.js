@@ -10,6 +10,7 @@ export default function App() {
         avatar_url="https://m.media-amazon.com/images/I/61KNBTw4K8S._UX679_.jpg"
         title="Software Eng"
         skillset={skillset}
+        //
       />
     </div>
   );

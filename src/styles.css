@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: cornflowerblue;
+}
+.img {
+  margin: 30px;
+  border-radius: 50%;
+  width: 120px;
+}
+.skills {
+  display: flex;
+}
+.skills > p {
+  margin: 5px;
+}
